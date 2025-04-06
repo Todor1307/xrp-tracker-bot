@@ -1,0 +1,5 @@
+name: xrp-tracker-bot
+routes:
+  - path: /
+    target_port: 8080
+    protocol: http
